@@ -1,0 +1,1 @@
+export const CURSOR_ANIMATION_TIME_MS = 70;
